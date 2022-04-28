@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CString", "CString\CString.vcxproj", "{CC694214-396C-447F-B0D2-15717E873469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC694214-396C-447F-B0D2-15717E873469}.Debug|x64.ActiveCfg = Debug|x64
+		{CC694214-396C-447F-B0D2-15717E873469}.Debug|x64.Build.0 = Debug|x64
+		{CC694214-396C-447F-B0D2-15717E873469}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC694214-396C-447F-B0D2-15717E873469}.Debug|x86.Build.0 = Debug|Win32
+		{CC694214-396C-447F-B0D2-15717E873469}.Release|x64.ActiveCfg = Release|x64
+		{CC694214-396C-447F-B0D2-15717E873469}.Release|x64.Build.0 = Release|x64
+		{CC694214-396C-447F-B0D2-15717E873469}.Release|x86.ActiveCfg = Release|Win32
+		{CC694214-396C-447F-B0D2-15717E873469}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A8C4CF9-7627-4288-8AAB-86B1AEFFFEB2}
+	EndGlobalSection
+EndGlobal
